@@ -9,8 +9,5 @@
   stroke-linecap="round"
   stroke-linejoin="round"
 >
-  <rect x="3" y="3" width="7" height="7" />
-  <rect x="14" y="3" width="7" height="7" />
-  <rect x="14" y="14" width="7" height="7" />
-  <rect x="3" y="14" width="7" height="7" />
+  <path d="m10 10V3H3v7zm0 4H3v7h7zm4-4V3h7v7zm0 4v7h7v-7z" />
 </svg>

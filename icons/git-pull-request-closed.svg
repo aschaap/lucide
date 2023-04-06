@@ -11,8 +11,5 @@
 >
   <circle cx="18" cy="18" r="3" />
   <circle cx="6" cy="6" r="3" />
-  <path d="M18 11.5V15" />
-  <path d="m21 3-6 6" />
-  <path d="m21 9-6-6" />
-  <line x1="6" y1="9" x2="6" y2="21" />
+  <path d="M6 21V9m9-6 6 6m0-6-6 6m3 2.5V15" />
 </svg>
